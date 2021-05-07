@@ -5,4 +5,5 @@
 
 ## Contact
 <a href="www.linkedin.com/in/edennyk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:edennyk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gamil&logoColor=white"/></a>
 
