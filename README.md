@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=300&section=header&text=EDEN%20KIM&animation=blinking&fontColor=161d6f&fontSize=60" />
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=250&section=header&text=EDEN%20KIM&desc=Junior%20Front-end%20Developer&descSize=30&fontSize=70&fontAlignY=30&descAlignY=50&animation=twinkling)
 
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEdennyk&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
