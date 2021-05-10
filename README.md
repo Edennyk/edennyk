@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/edennyk" target="_blank"><img src="https://img.shields.io/badge/EdenKim-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:edennyk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/edennyk@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 <br />
- [![Eden's github stats](https://github-readme-stats.vercel.app/api?username=edennyk)](https://github.com/anuraghazra/github-readme-stats)
+
 <br /><br />
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEdennyk&count_bg=%239DDFD3&title_bg=%23394867&icon=github.svg&icon_color=%23FFF3E2&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
