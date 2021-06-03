@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=180&section=header&text=EDEN%20KIM&desc=Junior%20Front-end%20Developer&descSize=20&fontSize=45&fontAlignY=30&descAlignY=50&animation=twinkling)
 <div align=center>
-## :globe_with_meridians: https://edennyk.github.io/portfolio/ :globe_with_meridians:
-## :computer: Stacks 
+## :globe_with_meridians: https://edennyk.github.io/portfolio/ :globe_with_meridians:</br>
+## :computer: Stacks </br>
 ### Techs that I've uese at least once
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
