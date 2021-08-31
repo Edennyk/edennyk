@@ -2,7 +2,6 @@
 
 <h1 align = 'center'> :globe_with_meridians: https://edennyk.github.io/portfolio/ :globe_with_meridians:</h1><br>
 <h2 align = 'center'> :computer: Stacks </h2>
-<p align = 'center'> Techs </p>
 <p align='center'>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white"/> 
