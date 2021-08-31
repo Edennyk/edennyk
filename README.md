@@ -2,7 +2,7 @@
 
 <h1 align = 'center'> :globe_with_meridians: https://edennyk.github.io/portfolio/ :globe_with_meridians:</h1><br>
 <h2 align = 'center'> :computer: Stacks </h2>
-<p align = 'center'> Techs that I've used at least once</p>
+<p align = 'center'> Techs </p>
 <p align='center'>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white"/> 
@@ -20,12 +20,8 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
-<img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=MySQL&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/> 
-<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=Android-Studio&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/> 
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/>
 <br>
 </p>
