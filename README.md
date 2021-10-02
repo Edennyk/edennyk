@@ -29,7 +29,6 @@
 <a href="https://www.linkedin.com/in/edennyk" target="_blank"><img src="https://img.shields.io/badge/EdenKim-0A66C2?style=plastic&logo=LinkedIn&logoColor=white"/></a>
 <a href="mailto:edennyk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/edennyk@gmail.com-EA4335?style=plastic&logo=Gmail&logoColor=white"/></a>
 <a href="https://codesandbox.io/u/Edennyk" target="_blank"><img src="https://img.shields.io/badge/CodeSandbox-334756?style=plastic&logo=CodeSandbox&logoColor=white"/></a>
-<a href="https://codepen.io/edennyk" target="_blank"><img src="https://img.shields.io/badge/CodePen-000000?style=plastic&logo=CodePen&logoColor=white"/></a>
 </p>
 <br>
 <p align='center'>
