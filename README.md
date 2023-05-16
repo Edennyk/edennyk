@@ -14,10 +14,10 @@
 <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 <br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=Express&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=NPM&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> 
+<!-- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>  -->
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/>
