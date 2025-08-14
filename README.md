@@ -1,7 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=180&section=header&text=EDEN%20KIM&desc=Junior%20Front-end%20Developer&descSize=20&fontSize=45&fontAlignY=30&descAlignY=50&animation=twinkling">
 
-<h1 align = 'center'> :globe_with_meridians: https://edennyk.github.io/portfolio/ :globe_with_meridians:</h1><br>
-<h2 align = 'center'> :computer: Stacks </h2>
+
 <p align='center'>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F0DB4F?style=flat-square&logo=JavaScript&logoColor=white"/> 
